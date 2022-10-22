@@ -1,7 +1,7 @@
 # austro tai comparative table
 
-|definitions|Austro M.|Austro D.|Tai|
+|definitions|AN M|AN D.|KD|
 |-----------|------------|-----------|------------|
-|butterfly|*bang|*qalibangbang|ŋa|
+|butterfly|*bang|*qali-bangbang|bɤŋ|
 |mother|*-|-|-|
 |father|*-|-|-|
