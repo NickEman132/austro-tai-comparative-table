@@ -1,7 +1,7 @@
 # austro tai comparative table
 
-|definitions|AN M|AN D.|KD|
+|definitions|AN|KD|-|
 |-----------|------------|-----------|------------|
-|butterfly|*bang|*qali-bangbang|bɤŋ|
-|mother|*-|-|-|
+|1.SG|*(i-)aku|*akuː|-|
+|2.SG|*(i-)kaSu; iSu|*isuː; amɤː|-|
 |father|*-|-|-|
