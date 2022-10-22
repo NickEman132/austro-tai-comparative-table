@@ -9,5 +9,10 @@
 |1.PL EXC|*kami|?|kami|?|?|
 |2.PL|?|?|kayo|?|?|
 |3.PL|*(si-)da|?|sila, da|?|?|
-|this|*(i-)ni|?|ito, adi|neːi4|nyi35|
+|this|*(i-)ni|?|ito, are|neːi4|nyi35|
 |that|*(i-)Cu|?|iyan (ito?)|?|?|
+|here|*(di-)ni|?|díne, díto|?|?|
+|there|?|?|doʼon (díto?)|?|?|
+|who|*(si-)ima|?|síno|?|?|
+|what|*(na-)nu|?|ano|?|?|
+|where|*(i-)nu|?|saan|?|?|
