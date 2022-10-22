@@ -8,7 +8,7 @@
 
 - 张済民/Zhang, Jimin. 仡佬语研究/Gelao yu yan jiu (A Study of Gelao). 贵阳市/Guiyang, China: 贵州民族出版社/Guizhou min zu chu ban she, 1993.
 
-|definitions|protoAustronesian|protoKraDai|Tagalog|Zhuang(Tai)|Gelao(Kra)
+|Gloss|protoAustronesian|protoKraDai|Tagalog|Zhuang(Tai)|Gelao(Kra)
 |-----------|-----------|-----------|------------|-----------|------------|
 |1.SG|*(i-)aku|*akuː|ako|kou1|ei33|
 |2.SG|*(i-)kaSu; iSu|*isuː; amɤː|ikaw|mɯŋ2|mɯ31|
@@ -20,7 +20,12 @@
 |this|*(i-)ni|?|ito, are|neːi4|nyi35|
 |that|*(i-)Cu|?|iyan (ito?)|?|?|
 |here|*(di-)ni|?|díne, díto|?|?|
-|there|?|?|doʼon (díto?)|?|?|
+|there|?|?|doʼon (díto? diyan?)|?|?|
 |who|*(si-)ima|?|síno|?|?|
 |what|*(na-)nu|?|ano|?|?|
 |where|*(i-)nu|?|saan|?|?|
+|when|?|?|kailan, kaylan|?|?|
+|how|?|?|paáno|?|?|
+|not|?|?|hindeʼ, dileʼ|?|?|
+|all|?|?|lahat|?|?|
+|many|?|?|dame|?|?|
